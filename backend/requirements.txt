@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yt-dlp
+faster-whisper
+google-genai
+firebase-admin
+razorpay
+python-dotenv
+pydantic
